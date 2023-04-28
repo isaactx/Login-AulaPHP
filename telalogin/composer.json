@@ -1,0 +1,16 @@
+{
+    "name": "aluno/telalogin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tela de Login",
+            "email": "isxxclosk@gmail.com"
+        }
+    ],
+    "require": {}
+}
